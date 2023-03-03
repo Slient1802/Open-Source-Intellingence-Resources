@@ -201,6 +201,8 @@ Shodan - https://shodan.io
 
 Wayback Machine - https://web.archive.org/
 
+Check domain age -https://www.whois.com/whois/
+
 ### Business OSINT
 
 Open Corporates - https://opencorporates.com/
